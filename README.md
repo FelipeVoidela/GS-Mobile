@@ -37,7 +37,7 @@ O aplicativo conta com 5 telas principais:
 - **React Native**
 - **AsyncStorage** (`@react-native-async-storage/async-storage`)
 - **React Navigation** (`@react-navigation/native`)
-- **TypeScript** (se aplicável)
-- **Expo CLI** (opcional, mas recomendado para facilitar a execução e testes)
+- **TypeScript** 
+- **Expo CLI** 
 
 ---
